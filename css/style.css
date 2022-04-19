@@ -1,0 +1,49 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #ff7526;
+    margin-top: 1px;
+}
+
+.quem-somos {
+    background-color: #011a38;
+    color: #ffffff;
+    margin-top: 2px;
+}
+
+.margin-text {
+    padding-top: 5px;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.text-quemsomos1 {
+    padding-top: -50px;
+}
+
+.rounded-circle{
+    margin: 2px;
+}
+
+.parceiros {
+    background-color: #011a38;
+    margin-top: 1px;
+    color: #ffffff;
+}
+
+.servicos {
+    background-color: #011a38;
+    margin-top: 1px;
+    color: #ffffff;
+}
+
+.rodape {
+    background-color: #011a38;
+    margin-top: 1px;
+    color: #ffffff;
+}
